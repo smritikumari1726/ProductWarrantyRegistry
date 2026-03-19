@@ -44,6 +44,8 @@ Each warranty record stores:
 - **Built with Soroban SDK for Stellar**
 
 ---
+##Deployed Contract Address-
+CDJPR2A6ZBOA2RMOQ6PC7WLA2FNXA3DDIIFDDYQFZAL5PX3RBJMDMFX5
 
 ## Deployed Smart Contract Link
 🔗 https://stellar.expert/explorer/testnet/tx/4d49cf3bc3ad03eaa5449d699406dd6c79bdf257379e7d692ca7cab87462ec43
